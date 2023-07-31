@@ -6,5 +6,18 @@
 
 ## Навыки и инструменты
 
++ проверка статических гипотез
++ визуализация данных
++ анализ событий
++ Python
++ Pandas
++ Matplotlib
++ Seaborn
++ Numpy
++ Datetime
++ Scipy
++ Plotly
++ Math
++ Json
 
 ## Общий вывод
