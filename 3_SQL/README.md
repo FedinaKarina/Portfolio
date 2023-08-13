@@ -6,8 +6,8 @@
 
 ## Навыки и инструменты
 
-+SQL
-+PostgreSQL
++ SQL
++ PostgreSQL
   
 
 ## Общий вывод
